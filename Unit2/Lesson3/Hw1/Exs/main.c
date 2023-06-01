@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: May 31, 2023
- *      Author: Amr
+ *      Author: Amr Ahmed
  */
 
 #include "Ex1.h"
@@ -13,7 +13,7 @@
 #include "Ex6.h"
 #include "Ex7.h"
 
-int main(){
+int main() {
 
 	Ex1();
 

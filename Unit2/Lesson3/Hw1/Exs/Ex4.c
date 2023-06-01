@@ -2,7 +2,7 @@
  * Ex4.c
  *
  *  Created on: May 31, 2023
- *      Author: potar
+ *      Author: Amr Ahmed
  */
 
 //Write C Program to Multiply two Floating Point Numbers

@@ -2,7 +2,7 @@
  * Ex6.h
  *
  *  Created on: May 31, 2023
- *      Author: potar
+ *      Author: Amr Ahmed
  */
 
 #ifndef EX6_H_

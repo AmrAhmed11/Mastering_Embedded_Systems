@@ -2,7 +2,7 @@
  * Ex7.c
  *
  *  Created on: May 31, 2023
- *      Author: potar
+ *      Author: Amr Ahmed
  */
 
 //it is an interview trick

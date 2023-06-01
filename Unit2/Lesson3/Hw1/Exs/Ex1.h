@@ -2,7 +2,7 @@
  * Ex1.h
  *
  *  Created on: May 31, 2023
- *      Author: Amr
+ *      Author: Amr Ahmed
  */
 
 #ifndef EX1_H_
