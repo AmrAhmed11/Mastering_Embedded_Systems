@@ -2,7 +2,7 @@
  * Ex1.c
  *
  *  Created on: May 31, 2023
- *      Author: Amr
+ *      Author: Amr Ahmed
  */
 
 //Write C Program to Print a Sentence
