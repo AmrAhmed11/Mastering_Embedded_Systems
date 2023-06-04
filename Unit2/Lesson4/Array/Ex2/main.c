@@ -32,4 +32,5 @@ int main() {
 		avg += arr[i];
 	}
 	printf("average = %f", avg/n);
+	free(arr);
 }
